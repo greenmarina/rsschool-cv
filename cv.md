@@ -5,10 +5,15 @@
 **Junior Frontend Developer**
 ***
 **Contact information:**
+
 Phone: +7 901 3632697
+
 E-mail: green.marina.box@gmail.com
+
 Telegram
+
 LinkedIn
+
 Behance
 
 
