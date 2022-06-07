@@ -1,9 +1,9 @@
 [rsschool-cv](https://greenmarina.github.io/rsschool-cv/)
-***
+===
 **Marina Glushenkova**
-***
+===
 **Junior Frontend Developer**
-***
+===
 **Contact information:**
 
 Phone: +7 901 3632697
